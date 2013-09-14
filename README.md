@@ -1,5 +1,4 @@
 #states-countify
-===============
 
 Rendered entirely in GeoJSON, each file is a state (USA) composed of its counties.
 
