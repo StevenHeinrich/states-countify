@@ -1,12 +1,12 @@
 #states-countify
 ===============
 
-###Rendered entirely in GeoJSON, each file is a state (USA) composed of its counties.
+Rendered entirely in GeoJSON, each file is a state (USA) composed of its counties.
 
 Libraries I have had success with
-*<a href="http://www.leafletjs.com">Leaflet.js</a>
-*<a href="http://www.d3js.org">D3.js</a>
+*[Leaflet.js](http://www.leafletjs.com)
+*[D3.js](http://www.d3js.org)
 
 Tutorials Worth Looking At
-*<a href="http://leafletjs.com/examples/quick-start.html">Leaflet Quick-Start</a>
-*<a href="http://bost.ocks.org/mike/leaflet/">D3 + Leaflet</a>
+*[Leaflet Quick-Start](http://leafletjs.com/examples/quick-start.html)
+*[D3 + Leaflet](http://bost.ocks.org/mike/leaflet/)
