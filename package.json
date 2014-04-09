@@ -1,0 +1,26 @@
+{
+  "name": "states-countify",
+  "version": "0.0.2",
+  "description": "Each of the fifty, nifty United States in GeoJSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francismakes/states-countify.git"
+  },
+  "keywords": [
+    "usa",
+    "county",
+    "geo",
+    "json",
+    "map"
+  ],
+  "author": "francismakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francismakes/states-countify/issues"
+  },
+  "homepage": "https://github.com/francismakes/states-countify"
+}
