@@ -4,7 +4,7 @@
   "description": "Each of the fifty, nifty United States in GeoJSON format.",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/francismakes/states-countify/issues"
   },
-  "homepage": "https://github.com/francismakes/states-countify"
+  "homepage": "https://github.com/francismakes/states-countify",
+  "devDependencies": {
+    "tape": "~2.12.3"
+  }
 }
